@@ -1,5 +1,5 @@
 import os
-from dotenv import load_dotenv
+
 import streamlit as st
 
 from langchain_community.document_loaders import PyPDFLoader
@@ -8,7 +8,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain_groq import ChatGroq
 
-load_dotenv()
+
 
 st.set_page_config(page_title="RAG Chatbot", layout="wide")
 st.title("📄 PDF Chatbot ")
