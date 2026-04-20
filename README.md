@@ -2,7 +2,7 @@
 
 A powerful Retrieval-Augmented Generation (RAG) chatbot that allows you to have intelligent conversations with your PDF documents. Built with Streamlit, LangChain, and Groq's LLM.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-here-green?style=for-the-badge&logo=streamlit)]([https://ragpdfbot-2.streamlit.app/])
+[![Live Demo](https://img.shields.io/badge/Live_Demo-here-green?style=for-the-badge&logo=streamlit)](https://ragpdfbot-2.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-ghost--bw-blue?style=for-the-badge&logo=github)](https://github.com/ghost-bw/RAG_PDFBOT)
 
 ## ✨ Features
